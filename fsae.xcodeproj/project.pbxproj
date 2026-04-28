@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7C1BB0012FA0493F008ED2FA /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C1BB0002FA0493F008ED2FA /* libsqlite3.tbd */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		7C1BAFD42FA0493F008ED2FA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -17,10 +21,6 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
-
-/* Begin PBXBuildFile section */
-		7C1BB0012FA0493F008ED2FA /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C1BB0002FA0493F008ED2FA /* libsqlite3.tbd */; };
-/* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7C1BAFD62FA0493F008ED2FA /* fsae */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = fsae; sourceTree = BUILT_PRODUCTS_DIR; };
